@@ -3,7 +3,7 @@ This repository contains [technical documentation](https://ricardosantosfc.githu
 
 While the game itself was built with Unity, the web-app that supports it is based on a MEAN stack.
 
-## Related saveDforest repositories: 
+## Related saveDforest repositories
 - [saveDforest-frontend](https://github.com/ricardosantosfc/saveDforest-frontend-public) - Frontend of the web-app
 - [saveDforest-backend](https://github.com/ricardosantosfc/saveDforest-backend-public) - Backend server of the web-app
 - saveDforest-unity-game - Unity game project (COMING SOON...)
